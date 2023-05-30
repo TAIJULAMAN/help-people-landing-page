@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:cursive;
+}
+
+.first-part{
+    height: 500px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    /* border: 2px solid red; */
+    text-align: center;
+    background-repeat: no-repeat;  
+    background-image: url("./images/donation1.jpg"); 
+    background-size: 100%;
+}
+button{
+
+        text-decoration: none;
+        background: linear-gradient(45deg, lightsalmon, tomato);
+        color: whitesmoke;
+        padding: 10px 40px;
+        border-radius: 15px;
+        font-weight: 700; 
+        margin: 20px 20px;
+        border: 0px;
+    }
+h1{
+        font-size: 50px;
+        color:black;
+    }
+p{
+        color:red;
+        padding-bottom: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        font-weight: 500;
+    }
+.half{
+    
+        float:none;
+        padding-left: 10px;
+        width:50%;
+    }
+.aman{
+        margin-left: 200px;
+        margin-top: 100px;
+       
+    }
+.top-banner{
+        border: 2px solid red; 
+        height: 500px;
+        justify-content: center;   
+    }
+.flexible-container{
+    
+        display: flex;   
+        justify-content: center;
+        align-items: center;
+    }
+    .sodium{
+        height: 800px;
+        margin-top: 50px;
+        
+    }
+    .heading{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .Subscribers{
+        gap: 30px;
+    }
+    .abcd{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: 30px;  
+    }
+.a{
+width: 33.3%;
+background-color: aqua;
+    }
+.b{
+    width: 33.3%;
+    background-color: aqua;
+}   
+.c{
+    width: 33.3%;
+    background-color: aqua;
+}
+.c img{
+    width: 30%;   
+}
+.footer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;   
+}
+.input{
+   
+    margin-top: 50px; 
+    background-color: blanchedalmond;  
+    padding: 10px 10px;
+}
